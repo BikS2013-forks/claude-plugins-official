@@ -561,7 +561,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "f90f863d4b9d643ab880c9dc8cdd78b6c88ae38d"
+        "sha": "9b9639edafa24ebae749043ce43d92f8b031fd42"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
